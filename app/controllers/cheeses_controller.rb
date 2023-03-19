@@ -5,4 +5,7 @@ class CheesesController < ApplicationController
     render json: cheeses
   end
 
+  def show
+  end
+
 end
